@@ -170,8 +170,6 @@ def predict(U_array):
 		print("Elleiptikos Kulindros")
 	elif(np.array_equal(predict,case_8)):
 		print("Ypervolikos Kulindros")
-	if(np.array_equal(U_array,case_911)):
-		print("Bush did 9/11")
 	
 
 
